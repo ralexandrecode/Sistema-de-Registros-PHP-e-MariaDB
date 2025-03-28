@@ -1,6 +1,6 @@
 # Sistema de Registros PHP/MariaDB
 
-Este repositório contém uma aplicação CRUD (Criar, Ler, Atualizar, Deletar) completa, desenvolvida em PHP e MariaDB, para gerenciar informações de clientes. A aplicação oferece uma interface web intuitiva com funcionalidades para adicionar, visualizar, pesquisar, modificar e excluir registros de clientes, utilizando um banco de dados MariaDB para armazenamento persistente dos dados. O projeto inclui arquivos PHP para a lógica de negócios, HTML para a estrutura das páginas e CSS para a estilização, proporcionando uma solução completa e pronta para uso.
+Este repositório contém uma aplicação CRUD (Criar, Ler, Atualizar, Deletar) completa, desenvolvida em PHP e MariaDB, para gerenciar informações de clientes. A aplicação oferece uma interface web intuitiva com funcionalidades para adicionar, visualizar, pesquisar, modificar e excluir registros de clientes, utilizando um banco de dados MariaDB para armazenamento persistente dos dados. O projeto inclui arquivos PHP para a lógica de negócios, HTML para a estrutura das páginas e CSS para a estilização, proporcionando uma solução pré pronta para uso.
 
 **Descrição dos Arquivos:**
 
@@ -44,3 +44,8 @@ Este repositório contém uma aplicação CRUD (Criar, Ler, Atualizar, Deletar) 
     * **`Descrição:`** Este arquivo SQL contém os comandos para criar o banco de dados baseDB e a tabela clientes. Ele define a estrutura da tabela com os campos: id, nome, email, telefone e data_cadastro.
     * **`Propósito`**: Fornecer um script SQL para configurar o banco de dados necessário para a aplicação CRUD, facilitando a instalação e o uso por outros desenvolvedores.
 
+# Conecte-se comigo: 🤝🏽
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
+[![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/ricardoalexandre.profissional/badges)
+[![My profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/ricardoalexandre_profissional)
