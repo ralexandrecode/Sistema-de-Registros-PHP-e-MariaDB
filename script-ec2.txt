@@ -16,8 +16,6 @@ sudo rm /var/www/html/index.html
 
 cd app
 
-### Criar a base primeiro:
-
 sudo mysql -e CREATE DATABASE baseDB;
 
 sudo mysql -e ALTER USER 'root'@'localhost' IDENTIFIED BY '123';
