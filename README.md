@@ -41,8 +41,8 @@ Este repositório contém uma aplicação CRUD (Criar, Ler, Atualizar, Deletar) 
     * **Propósito:** Identificar a aplicação e melhorar sua identidade visual.
 
 10. **`baseDB.sql`**:
-    * **`Descrição:`** Este arquivo SQL contém os comandos para criar o banco de dados baseDB e a tabela clientes. Ele define a estrutura da tabela com os campos: id, nome, email, telefone e data_cadastro.
-    * **`Propósito`**: Fornecer um script SQL para configurar o banco de dados necessário para a aplicação CRUD, facilitando a instalação e o uso por outros desenvolvedores.
+    * **Descrição:** Este arquivo SQL contém os comandos para criar o banco de dados baseDB e a tabela clientes. Ele define a estrutura da tabela com os campos: id, nome, email, telefone e data_cadastro.
+    * **Propósito**: Fornecer um script SQL para configurar o banco de dados necessário para a aplicação CRUD, facilitando a instalação e o uso por outros desenvolvedores.
 
 # Conecte-se comigo: 🤝🏽
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
