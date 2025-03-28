@@ -1,0 +1,29 @@
+#!/bin/bash
+sudo apt update
+sudo apt install unzip apache2 php8.2  php8.2-mysql  mariadb-server -y
+
+sudo wget https://github.com/ralexandrecode/Sistema-de-Registros-PHP-e-MariaDB/archive/refs/heads/main.zip
+
+sudo unzip main.zip
+
+cd Sistema-de-Registros-PHP-e-MariaDB-main
+
+tar xfvz app.zip
+
+sudo cp -r app/* /var/www/html
+
+sudo rm /var/www/html/index.html
+
+cd app
+
+### Criar a base primeiro:
+
+sudo mysql -e CREATE DATABASE baseDB;
+
+sudo mysql -e ALTER USER 'root'@'localhost' IDENTIFIED BY '123';
+
+sudo mysql -u root baseDB < basedb.sql
+
+exit
+
+#fim
